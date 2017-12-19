@@ -169,3 +169,20 @@ a:hover {
 .icon {
   font-size: 96px;
 }
+
+.footer {
+  margin-bottom: 0px;
+  height: 100px;
+  width: 100%;
+  color: #464a4e;
+  background-color: #e7e8ea;
+  border-color: #dddfe2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+img {
+  margin-top: 10px;
+  height: 75px;
+  width: 75px;
+}
